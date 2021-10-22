@@ -1,0 +1,16 @@
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.csproj.AssemblyReference.cache
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.AssemblyInfoInputs.cache
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.AssemblyInfo.cs
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.csproj.CoreCompileInputs.cache
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.exe
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.deps.json
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.runtimeconfig.json
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.runtimeconfig.dev.json
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.dll
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\ref\Animalshop.dll
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\bin\Debug\net5.0\Animalshop.pdb
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.dll
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\ref\Animalshop.dll
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.pdb
+C:\Users\robin\OneDrive\Skrivbord\C#\Inlämningsuppgifter\Animalshop\Animalshop\obj\Debug\net5.0\Animalshop.genruntimeconfig.cache
